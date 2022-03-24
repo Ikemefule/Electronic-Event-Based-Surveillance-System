@@ -14,7 +14,7 @@ st.set_page_config(
       )
 
 st.title(
-  'An Electronic Event Based Surveillance System (eEBS)'
+  'An Electronic Event Based Surveillance System (eEBS) project'
 )
 
 st.markdown(
